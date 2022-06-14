@@ -1,5 +1,5 @@
 # retrained-peoplenet-on-tao-toolkit
-peoplenet-on-tao-toolkit は、NVIDIA TAO TOOLKIT を用いて PeopleNet の AIモデル最適化を行うマイクロサービスです。  
+peoplenet-on-tao-toolkit は、NVIDIA TAO TOOLKIT を用いて 追加学習された PeopleNet の AIモデル最適化を行うマイクロサービスです。  
 
 ## 動作環境
 - NVIDIA 
